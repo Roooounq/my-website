@@ -105,6 +105,34 @@ body {
   padding: 1rem;
   border-radius: 6px;
 }
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Poppins:wght@400;600&display=swap');
+
+.blog-post {
+  background: #fdfdfd;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  margin-bottom: 2rem;
+  font-family: 'Lora', serif;
+}
+
+.blog-post h3 {
+  margin-top: 0;
+  color: #1a2a40;
+  font-family: 'Poppins', sans-serif;
+}
+
+.blog-post .excerpt {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 1rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+.blog-post .content p {
+  margin-bottom: 1rem;
+  line-height: 1.7;
+}
 
 /* Timeline */
 .timeline-item {
