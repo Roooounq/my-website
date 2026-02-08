@@ -138,3 +138,12 @@ body {
 .timeline-item {
   margin-bottom: 2rem;
 }
+
+/* Contact Styles */
+.contact-info {
+  font-family: 'Arial Black', sans-serif;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #1a2a40;
+}
+
